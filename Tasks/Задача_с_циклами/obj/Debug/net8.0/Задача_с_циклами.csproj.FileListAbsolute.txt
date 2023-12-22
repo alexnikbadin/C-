@@ -1,0 +1,15 @@
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/bin/Debug/net8.0/Задача_с_циклами
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/bin/Debug/net8.0/Задача_с_циклами.deps.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/bin/Debug/net8.0/Задача_с_циклами.runtimeconfig.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/bin/Debug/net8.0/Задача_с_циклами.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/bin/Debug/net8.0/Задача_с_циклами.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/Задача_с_циклами.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/Задача_с_циклами.AssemblyInfoInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/Задача_с_циклами.AssemblyInfo.cs
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/Задача_с_циклами.csproj.CoreCompileInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/Задача_с_циклами.sourcelink.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/Задача_с_циклами.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/refint/Задача_с_циклами.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/Задача_с_циклами.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/Задача_с_циклами.genruntimeconfig.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Lesson 1/Task_2/Задача_с_циклами/obj/Debug/net8.0/ref/Задача_с_циклами.dll
